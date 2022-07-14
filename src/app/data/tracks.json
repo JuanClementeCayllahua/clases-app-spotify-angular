@@ -1,0 +1,67 @@
+{
+    "data": [{
+            "_id": 1,
+            "name": "Afirmaciones Magenicas",
+            "album": "One Love",
+            "cover": "https://yt3.ggpht.com/tFrYHVtbtwFEejz-eNgulQiAJ_fRAQ1VSglwfck3b8uYXL-rIu4aMYEMBz3qvv1azgz5xqBC=w1280-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "artist": {
+                "name": "Cristian Cruz",
+                "nickname": "Cristian Cruz",
+                "nationality": "ES"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track.mp3"
+        },
+        {
+            "_id": 2,
+            "name": "Acelerador",
+            "album": "Tips Acelerador Magnetico",
+            "cover": "https://yt3.ggpht.com/tFrYHVtbtwFEejz-eNgulQiAJ_fRAQ1VSglwfck3b8uYXL-rIu4aMYEMBz3qvv1azgz5xqBC=w1280-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "artist": {
+                "name": "Snow",
+                "nickname": "Snow",
+                "nationality": "US"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-1.mp3"
+        },
+        {
+            "_id": 3,
+            "name": "Afirmaciones I",
+            "album": "Round Table Knights",
+            "cover": "https://yt3.ggpht.com/tFrYHVtbtwFEejz-eNgulQiAJ_fRAQ1VSglwfck3b8uYXL-rIu4aMYEMBz3qvv1azgz5xqBC=w1280-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "artist": {
+                "name": "Round Table Knights",
+                "nickname": "Round Table Knights",
+                "nationality": "US"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-2.mp3"
+        },
+        {
+            "_id": 4,
+            "name": "Habitos",
+            "album": "Cristian Cruz",
+            "cover": "https://s3.amazonaws.com/wp-conecta/wp-content/uploads/2017/01/12111701/newlogo.2.0-300x183.png",
+            "artist": {
+                "name": "Cristian Cruz",
+                "nickname": "Cristian Cruz",
+                "nationality": "UK"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-4.mp3"
+        }
+    ]
+}

@@ -44,3 +44,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+/src/assets/img/20211230_173750.jpeg
+ 

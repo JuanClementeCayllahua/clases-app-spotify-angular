@@ -1,0 +1,14 @@
+.contenedorencab {
+    width: 100%;
+    background: rebeccapurple;
+    color: white;
+    top: 0;
+    left: 0; 
+
+    /* background-color: red; */
+}
+.navbarprimary{
+    background: tomato;
+    height: 50px;
+    padding: 10px 10px 0px 10px;
+}
